@@ -1,0 +1,16 @@
+nohup python3 main.py --dataset WN18RR\
+    --num_epochs 1000\
+    --batch_size 100\
+    --nneg 50\
+    --lr 0.001\
+    --margin 8.0\
+    --max_norm 1.5\
+    --max_scale 3.5\
+    --max_grad_norm 1.0\
+    --dim 32\
+    --valid_steps 10 \
+    --early_stop 20 \
+    --cuda True \
+    --real_neg \
+    --optimizer adam  > ultrae.txt 2>&1 &
+
