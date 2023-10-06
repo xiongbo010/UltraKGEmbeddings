@@ -1,4 +1,4 @@
-# Codes for Ultrahyperbolic Knowledge Graph Embedding
+# Codes for Knowledge Graph Embedding
 
 pytorch>=1.10
 geoopt=0.5.0
