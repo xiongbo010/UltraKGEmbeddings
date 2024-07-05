@@ -1,4 +1,5 @@
 # Codes for Knowledge Graph Embedding
+[![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--4342-d45815.svg)](https://doi.org/10.18419/darus-4342)
 
 pytorch>=1.10
 geoopt=0.5.0
